@@ -1,2 +1,1 @@
 # library-project
-library-project
